@@ -1,0 +1,16 @@
+{
+    "author": [
+        "Will"
+    ],
+    "description": "Anonymous acronym sentence game for Red-DiscordBot.",
+    "install_msg": "Thanks for installing Acro. Start a round with [p]acro.",
+    "short": "Anonymous acronym game with voting.",
+    "requirements": [],
+    "tags": [
+        "game",
+        "acronym",
+        "wordgame"
+    ],
+    "min_bot_version": "3.5.0",
+    "end_user_data_statement": "This cog stores active round submissions only in memory and does not persist user data."
+}
